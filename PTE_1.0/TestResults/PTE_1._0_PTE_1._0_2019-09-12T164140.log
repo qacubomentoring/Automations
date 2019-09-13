@@ -1,0 +1,45 @@
+﻿2019-09-12T16:41:40.1548756-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-12T16:41:40.1548756-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.388 in Framework clr40 in x86 mode execution started
+2019-09-12T16:41:40.1548756-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\packages\SpecRun.Runner.3.0.388\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-12T16:41:40.2406750-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-12T16:41:40.2406750-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults" (default)
+2019-09-12T16:41:40.2406750-03:00;VSTestExecutionThread;Info;Profile: PTE_1._0
+2019-09-12T16:41:40.2556081-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults\PTE_1._0_PTE_1._0_2019-09-12T164140.log
+2019-09-12T16:41:40.2625896-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-12T16:41:40.2666052-03:00;Thread#13;Info;Checking license
+2019-09-12T16:41:40.2785461-03:00;Thread#13;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-09-12T16:41:45.2818421-03:00;Thread#13;Info;Evaluation delay finished.
+2019-09-12T16:41:45.2857712-03:00;Thread#13;Info;License check completed
+2019-09-12T16:41:45.2857712-03:00;Thread#13;Info;starting test run
+2019-09-12T16:41:45.2927270-03:00;Thread#13;Info;Discovering target: Default
+2019-09-12T16:41:45.2927270-03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-12T16:41:45.5540572-03:00:Appdomain Disposed
+2019-09-12T16:41:45.5540572-03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-12T16:41:45.5550225-03:00:Test Suite Dump
+2019-09-12T16:41:45.5560518-03:00:#0: PTE_1._0/PTE_1._0 - 
+2019-09-12T16:41:45.5560518-03:00:End: Test Suite Dump
+2019-09-12T16:41:45.5710101-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T16:41:45.5730031-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-12T16:41:45.5730031-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-12T16:41:45.5730031-03:00:Thread#0:Scheduler: No more tests for thread
+2019-09-12T16:41:45.5740111-03:00:Trying to cancel thread
+2019-09-12T16:41:45.5740111-03:00:Thread cancelled
+2019-09-12T16:41:45.5789911-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-09-12T16:41:45.5789911-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-12T16:41:45.5789911-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-12T16:41:45.5799574-03:00;Thread#13;Info;test run finished
+2019-09-12T16:41:45.5799574-03:00;Thread#13;Info;publishing test results
+2019-09-12T16:41:45.5849743-03:00;Thread#13;Info;test results published
+2019-09-12T16:41:45.5849743-03:00;Thread#13;Info;generating reports
+2019-09-12T16:41:45.6348460-03:00;Thread#13;Info;Starting external report generation process
+2019-09-12T16:41:46.7806583-03:00;Thread#13;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-09-12T16:41:46.7806583-03:00;Thread#13;Error;External program returned exit code '-2'
+2019-09-12T16:41:46.7806583-03:00;Thread#13;Info;Failed generating reports
+2019-09-12T16:41:46.7876404-03:00:Total: 0
+2019-09-12T16:41:46.7886384-03:00:Succeeded: 0
+2019-09-12T16:41:46.7896350-03:00:Ignored: 0
+2019-09-12T16:41:46.7896350-03:00:Pending: 0
+2019-09-12T16:41:46.7896350-03:00:Skipped: 0
+2019-09-12T16:41:46.7906324-03:00:Failed: 0
+2019-09-12T16:41:46.7966164-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+========== End of log file ==========

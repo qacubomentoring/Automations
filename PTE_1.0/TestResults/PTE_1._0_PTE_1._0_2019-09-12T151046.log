@@ -1,0 +1,147 @@
+﻿2019-09-12T15:10:46.5468514-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-12T15:10:46.5468514-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.388 in Framework clr40 in x86 mode execution started
+2019-09-12T15:10:46.5468514-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\packages\SpecRun.Runner.3.0.388\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-12T15:10:46.6405709-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-12T15:10:46.6415690-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults" (default)
+2019-09-12T15:10:46.6415690-03:00;VSTestExecutionThread;Info;Profile: PTE_1._0
+2019-09-12T15:10:46.6585258-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults\PTE_1._0_PTE_1._0_2019-09-12T151046.log
+2019-09-12T15:10:46.6694948-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-12T15:10:46.6744814-03:00;Thread#13;Info;Checking license
+2019-09-12T15:10:46.6874468-03:00;Thread#13;Info;Evaluation mode: test execution starts in 12 seconds... (this delay is removed in the registered version)
+2019-09-12T15:10:58.6895501-03:00;Thread#13;Info;Evaluation delay finished.
+2019-09-12T15:10:58.6925720-03:00;Thread#13;Info;License check completed
+2019-09-12T15:10:58.6935692-03:00;Thread#13;Info;starting test run
+2019-09-12T15:10:58.6995263-03:00;Thread#13;Info;Discovering target: Default
+2019-09-12T15:10:58.6995263-03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-12T15:10:58.9618557-03:00:Appdomain Disposed
+2019-09-12T15:10:58.9618557-03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-12T15:10:58.9628489-03:00:Test Suite Dump
+2019-09-12T15:10:58.9638239-03:00:#0: PTE_1._0/PTE_1._0 - 
+2019-09-12T15:10:58.9638239-03:00:#1: Default - 
+2019-09-12T15:10:58.9638239-03:00:#2: PTE_1.0 - 
+2019-09-12T15:10:58.9648360-03:00:#3: Portal PTE - 
+2019-09-12T15:10:58.9877920-03:00:#4: 001 Gerar Proposta - Corretora - TestAssembly:PTE_1.0/Feature:Portal+PTE/Scenario:001+Gerar+Proposta+-+Corretora
+2019-09-12T15:10:58.9877920-03:00:End: Test Suite Dump
+2019-09-12T15:10:59.0037446-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T15:10:59.0047417-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-12T15:10:59.0047417-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-12T15:10:59.0077342-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-12T15:10:59.0077342-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-12T15:10:59.0077342-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-12T15:10:59.0077342-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-12T15:10:59.0087320-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-12T15:10:59.0097315-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-12T15:10:59.0117236-03:00:Thread #0: creating new test thread executor for PTE_1.0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-12T15:10:59.0127217-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-12T15:10:59.0127217-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-12T15:10:59.0137204-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-09-12T15:10:59.0765335-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-09-12T15:10:59.2690465-03:00:Thread#0:T:-> Loading plugin C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-12T15:10:59.2730339-03:00:Thread#0:T:-> Using default config
+2019-09-12T15:10:59.3338675-03:00:Thread#0:B:Given acesso ao Portal PTE
+2019-09-12T15:11:08.9503415-03:00:Thread#0:T:done: PortalPTESteps.GivenAcessoAoPortalPTE() (9,5s)
+2019-09-12T15:11:08.9503415-03:00:Thread#0:B:And Realizar o Login da Corretora
+2019-09-12T15:11:09.2555040-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"#codigo"}
+2019-09-12T15:11:09.2565012-03:00:Thread#0:T:  (Session info: chrome=76.0.3809.132)
+2019-09-12T15:11:09.2565012-03:00:Thread#0:B:And Gerar uma Proposta
+2019-09-12T15:11:09.2565012-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:09.2565012-03:00:Thread#0:B:And Preencher Dados do produtor
+2019-09-12T15:11:09.2565012-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:09.2574981-03:00:Thread#0:B:And Preencher Dados da empresa
+2019-09-12T15:11:09.2574981-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:09.2574981-03:00:Thread#0:B:And Preencher Dados dos beneficiários
+2019-09-12T15:11:09.2574981-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:09.2574981-03:00:Thread#0:B:And Anexar Documentação
+2019-09-12T15:11:09.2574981-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:09.2584941-03:00:Thread#0:B:When clicar em Finalização proposta
+2019-09-12T15:11:09.2584941-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:09.2584941-03:00:Thread#0:B:Then Proposta deve ser enviada para Análise com Status "Aguardando Análise"
+2019-09-12T15:11:09.2624857-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:09.3392792-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-09-12T15:11:09.3402806-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T15:11:09.3402806-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-09-12T15:11:09.3402806-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-12T15:11:09.3402806-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-12T15:11:09.3402806-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-12T15:11:09.3402806-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-12T15:11:09.3402806-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-12T15:11:09.3402806-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-12T15:11:09.3402806-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-09-12T15:11:09.3492526-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 10,2727191 seconds
+2019-09-12T15:11:09.3512499-03:00:Thread#0: Test #4/1 is started on thread #0
+2019-09-12T15:11:09.3512499-03:00:Thread#0:B:Given acesso ao Portal PTE
+2019-09-12T15:11:18.4873041-03:00:Thread#0:T:done: PortalPTESteps.GivenAcessoAoPortalPTE() (9,1s)
+2019-09-12T15:11:18.4873041-03:00:Thread#0:B:And Realizar o Login da Corretora
+2019-09-12T15:11:18.5092468-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"#codigo"}
+2019-09-12T15:11:18.5092468-03:00:Thread#0:T:  (Session info: chrome=76.0.3809.132)
+2019-09-12T15:11:18.5102566-03:00:Thread#0:B:And Gerar uma Proposta
+2019-09-12T15:11:18.5102566-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:18.5102566-03:00:Thread#0:B:And Preencher Dados do produtor
+2019-09-12T15:11:18.5102566-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:18.5102566-03:00:Thread#0:B:And Preencher Dados da empresa
+2019-09-12T15:11:18.5102566-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:18.5102566-03:00:Thread#0:B:And Preencher Dados dos beneficiários
+2019-09-12T15:11:18.5112406-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:18.5112406-03:00:Thread#0:B:And Anexar Documentação
+2019-09-12T15:11:18.5112406-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:18.5112406-03:00:Thread#0:B:When clicar em Finalização proposta
+2019-09-12T15:11:18.5112406-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:18.5112406-03:00:Thread#0:B:Then Proposta deve ser enviada para Análise com Status "Aguardando Análise"
+2019-09-12T15:11:18.5112406-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:18.5122381-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T15:11:18.5122381-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-09-12T15:11:18.5122381-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-12T15:11:18.5122381-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-12T15:11:18.5122381-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-12T15:11:18.5122381-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-12T15:11:18.5122381-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-12T15:11:18.5122381-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-12T15:11:18.5122381-03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2019-09-12T15:11:18.5132357-03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 9,1619858 seconds
+2019-09-12T15:11:18.5132357-03:00:Thread#0: Test #4/2 is started on thread #0
+2019-09-12T15:11:18.5132357-03:00:Thread#0:B:Given acesso ao Portal PTE
+2019-09-12T15:11:29.1705538-03:00:Thread#0:T:done: PortalPTESteps.GivenAcessoAoPortalPTE() (10,7s)
+2019-09-12T15:11:29.1705538-03:00:Thread#0:B:And Realizar o Login da Corretora
+2019-09-12T15:11:29.1845192-03:00:Thread#0:T:error: no such element: Unable to locate element: {"method":"css selector","selector":"#codigo"}
+2019-09-12T15:11:29.1845192-03:00:Thread#0:T:  (Session info: chrome=76.0.3809.132)
+2019-09-12T15:11:29.1845192-03:00:Thread#0:B:And Gerar uma Proposta
+2019-09-12T15:11:29.1845192-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:29.1845192-03:00:Thread#0:B:And Preencher Dados do produtor
+2019-09-12T15:11:29.1845192-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:29.1845192-03:00:Thread#0:B:And Preencher Dados da empresa
+2019-09-12T15:11:29.1845192-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:29.1845192-03:00:Thread#0:B:And Preencher Dados dos beneficiários
+2019-09-12T15:11:29.1855155-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:29.1855155-03:00:Thread#0:B:And Anexar Documentação
+2019-09-12T15:11:29.1855155-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:29.1855155-03:00:Thread#0:B:When clicar em Finalização proposta
+2019-09-12T15:11:29.1855155-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:29.1855155-03:00:Thread#0:B:Then Proposta deve ser enviada para Análise com Status "Aguardando Análise"
+2019-09-12T15:11:29.1855155-03:00:Thread#0:T:skipped because of previous errors
+2019-09-12T15:11:29.1865348-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-12T15:11:29.1865348-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-12T15:11:29.1865348-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-09-12T15:11:29.1865348-03:00:Thread#0:Scheduler: No more tests for thread
+2019-09-12T15:11:29.1875085-03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 10,6742728 seconds
+2019-09-12T15:11:29.2064585-03:00:Appdomain Disposed
+2019-09-12T15:11:29.2074545-03:00:Trying to cancel thread
+2019-09-12T15:11:29.2074545-03:00:Thread cancelled
+2019-09-12T15:11:29.2134388-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-09-12T15:11:29.2134388-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-09-12T15:11:29.2134388-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-09-12T15:11:29.2174399-03:00;Thread#13;Info;test run finished
+2019-09-12T15:11:29.2174399-03:00;Thread#13;Info;publishing test results
+2019-09-12T15:11:29.2224148-03:00;Thread#13;Info;test results published
+2019-09-12T15:11:29.2224148-03:00;Thread#13;Info;generating reports
+2019-09-12T15:11:29.3291573-03:00;Thread#13;Info;Starting external report generation process
+2019-09-12T15:11:31.0984662-03:00;Thread#13;Info;Successfully generated reports.
+2019-09-12T15:11:31.1004614-03:00;Thread#13;Info;Successfully generated reports
+2019-09-12T15:11:31.1094371-03:00:Total: 1 (test executions: 3)
+2019-09-12T15:11:31.1124299-03:00:Succeeded: 0
+2019-09-12T15:11:31.1134266-03:00:Ignored: 0
+2019-09-12T15:11:31.1134266-03:00:Pending: 0
+2019-09-12T15:11:31.1134266-03:00:Skipped: 0
+2019-09-12T15:11:31.1144240-03:00:Failed: 1
+2019-09-12T15:11:31.1249064-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-09-12T15:11:31.1249064-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults\PTE_1._0_PTE_1._0_2019-09-12T151046.html'
+========== End of log file ==========
