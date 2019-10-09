@@ -1,0 +1,63 @@
+﻿2019-09-30T17:58:46.7670567-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-30T17:58:46.7670567-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.388 in Framework clr40 in x86 mode execution started
+2019-09-30T17:58:46.7670567-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\packages\SpecRun.Runner.3.0.388\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-30T17:58:46.9126698-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T17:58:46.9126698-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults" (default)
+2019-09-30T17:58:46.9136663-03:00;VSTestExecutionThread;Info;Profile: PTE_1._0
+2019-09-30T17:58:46.9366072-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults\PTE_1._0_PTE_1._0_2019-09-30T175846.log
+2019-09-30T17:58:46.9465787-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-30T17:58:46.9555543-03:00;Thread#14;Info;Checking license
+2019-09-30T17:58:46.9755014-03:00;Thread#14;Info;Evaluation mode: test execution starts in 5 seconds... (this delay is removed in the registered version)
+2019-09-30T17:58:51.9767038-03:00;Thread#14;Info;Evaluation delay finished.
+2019-09-30T17:58:51.9846145-03:00;Thread#14;Info;License check completed
+2019-09-30T17:58:51.9846145-03:00;Thread#14;Info;starting test run
+2019-09-30T17:58:51.9985752-03:00;Thread#14;Info;Discovering target: Default
+2019-09-30T17:58:51.9985752-03:00;Thread#14;Info;Discovering tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T17:58:52.4250070-03:00:Appdomain Disposed
+2019-09-30T17:58:52.4250070-03:00;Thread#14;Info;Discovered tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T17:58:52.4260037-03:00:Test Suite Dump
+2019-09-30T17:58:52.4270018-03:00:#0: PTE_1._0/PTE_1._0 - 
+2019-09-30T17:58:52.4270018-03:00:#1: Default - 
+2019-09-30T17:58:52.4270018-03:00:#2: PTE_1.0 - 
+2019-09-30T17:58:52.4270018-03:00:#3: Portal PTE - 
+2019-09-30T17:58:52.4599410-03:00:#4: 001 Gerar Proposta - Corretora - TestAssembly:PTE_1.0/Feature:Portal+PTE/Scenario:001+Gerar+Proposta+-+Corretora
+2019-09-30T17:58:52.4599410-03:00:End: Test Suite Dump
+2019-09-30T17:58:52.4784033-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-30T17:58:52.4794007-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-30T17:58:52.4794007-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-30T17:58:52.4824199-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-30T17:58:52.4824199-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-30T17:58:52.4824199-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-30T17:58:52.4824199-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-30T17:58:52.4834175-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-30T17:58:52.4844334-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-30T17:58:52.4864089-03:00:Thread #0: creating new test thread executor for PTE_1.0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-30T17:58:52.4874065-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-30T17:58:52.4884046-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-30T17:58:52.4894011-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-09-30T17:58:52.6020838-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-09-30T17:58:52.8314888-03:00:Thread#0:T:-> Loading plugin C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-30T17:58:52.8424326-03:00:Thread#0:T:-> Using default config
+2019-09-30T17:58:52.9062620-03:00:Thread#0:B:Given acesso ao Portal PTE
+2019-09-30T17:58:58.6030020-03:00:Thread#0:T:done: PortalPTESteps.GivenAcessoAoPortalPTE() (5,6s)
+2019-09-30T17:58:58.6030020-03:00:Thread#0:B:And Realizar o Login da Corretora
+2019-09-30T17:59:02.3098882-03:00:Thread#0:T:done: PortalPTESteps.GivenRealizarOLoginDaCorretora() (3,7s)
+2019-09-30T17:59:02.3098882-03:00:Thread#0:B:And Gerar uma Proposta
+2019-09-30T17:59:40.8716515-03:00:Thread#0:T:error: Timed out after 20 seconds
+2019-09-30T17:59:43.8652637-03:00:Thread#0:B:And Preencher Dados do produtor
+2019-09-30T17:59:43.8652637-03:00:Thread#0:T:skipped because of previous errors
+2019-09-30T17:59:44.1340371-03:00:Thread#0:B:And Preencher Dados da empresa
+2019-09-30T17:59:44.1350343-03:00:Thread#0:T:skipped because of previous errors
+2019-09-30T17:59:44.3514726-03:00:Thread#0:B:And Preencher Dados dos beneficiários
+2019-09-30T17:59:44.3524692-03:00:Thread#0:T:skipped because of previous errors
+2019-09-30T17:59:44.5670451-03:00:Thread#0:B:And Anexar Documentação
+2019-09-30T17:59:44.5670451-03:00:Thread#0:T:skipped because of previous errors
+2019-09-30T17:59:44.8018532-03:00:Thread#0:B:When clicar em Finalização proposta
+2019-09-30T17:59:44.8018532-03:00:Thread#0:T:skipped because of previous errors
+2019-09-30T17:59:45.3272309-03:00:Thread#0:B:Then Proposta deve ser enviada para Análise com Status Aguardando Análise
+2019-09-30T17:59:45.5316992-03:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2019-09-30T17:59:45.5316992-03:00:Thread#0:T:        [Then(@"Proposta deve ser enviada para Análise com Status Aguardando Análise")]
+2019-09-30T17:59:45.5316992-03:00:Thread#0:T:        public void ThenPropostaDeveSerEnviadaParaAnaliseComStatusAguardandoAnalise()
+2019-09-30T17:59:45.5316992-03:00:Thread#0:T:        {
+2019-09-30T17:59:45.5316992-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2019-09-30T17:59:45.5316992-03:00:Thread#0:T:        }

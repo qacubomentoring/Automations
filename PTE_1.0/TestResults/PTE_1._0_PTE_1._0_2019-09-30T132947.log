@@ -1,0 +1,54 @@
+﻿2019-09-30T13:29:47.3022278-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-30T13:29:47.3022278-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.388 in Framework clr40 in x86 mode execution started
+2019-09-30T13:29:47.3032254-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\packages\SpecRun.Runner.3.0.388\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-30T13:29:47.4438558-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T13:29:47.4438558-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults" (default)
+2019-09-30T13:29:47.4448534-03:00;VSTestExecutionThread;Info;Profile: PTE_1._0
+2019-09-30T13:29:47.4648003-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults\PTE_1._0_PTE_1._0_2019-09-30T132947.log
+2019-09-30T13:29:47.4727795-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-30T13:29:47.4807575-03:00;Thread#14;Info;Checking license
+2019-09-30T13:29:47.4997088-03:00;Thread#14;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-09-30T13:29:58.5012045-03:00;Thread#14;Info;Evaluation delay finished.
+2019-09-30T13:29:58.5051941-03:00;Thread#14;Info;License check completed
+2019-09-30T13:29:58.5051941-03:00;Thread#14;Info;starting test run
+2019-09-30T13:29:58.5191806-03:00;Thread#14;Info;Discovering target: Default
+2019-09-30T13:29:58.5191806-03:00;Thread#14;Info;Discovering tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T13:29:58.9061424-03:00:Appdomain Disposed
+2019-09-30T13:29:58.9061424-03:00;Thread#14;Info;Discovered tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T13:29:58.9071291-03:00:Test Suite Dump
+2019-09-30T13:29:58.9091249-03:00:#0: PTE_1._0/PTE_1._0 - 
+2019-09-30T13:29:58.9091249-03:00:#1: Default - 
+2019-09-30T13:29:58.9091249-03:00:#2: PTE_1.0 - 
+2019-09-30T13:29:58.9091249-03:00:#3: Portal PTE - 
+2019-09-30T13:29:58.9450575-03:00:#4: 001 Gerar Proposta - Corretora - TestAssembly:PTE_1.0/Feature:Portal+PTE/Scenario:001+Gerar+Proposta+-+Corretora
+2019-09-30T13:29:58.9450575-03:00:End: Test Suite Dump
+2019-09-30T13:29:58.9649995-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-30T13:29:58.9659967-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-30T13:29:58.9659967-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-30T13:29:58.9689946-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-30T13:29:58.9689946-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-30T13:29:58.9689946-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-30T13:29:58.9689946-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-30T13:29:58.9699900-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-30T13:29:58.9709868-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-30T13:29:58.9729778-03:00:Thread #0: creating new test thread executor for PTE_1.0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-30T13:29:58.9739809-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-30T13:29:58.9749762-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-30T13:29:58.9759777-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-09-30T13:29:59.1023112-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-09-30T13:29:59.3337331-03:00:Thread#0:T:-> Loading plugin C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-30T13:29:59.3437058-03:00:Thread#0:T:-> Using default config
+2019-09-30T13:29:59.4055413-03:00:Thread#0:B:Given acesso ao Portal PTE
+2019-09-30T13:30:04.8083932-03:00:Thread#0:T:done: PortalPTESteps.GivenAcessoAoPortalPTE() (5,3s)
+2019-09-30T13:30:04.8097152-03:00:Thread#0:B:And Realizar o Login da Corretora
+2019-09-30T13:30:07.9647131-03:00:Thread#0:T:done: PortalPTESteps.GivenRealizarOLoginDaCorretora() (3,2s)
+2019-09-30T13:30:07.9647131-03:00:Thread#0:B:And Gerar uma Proposta
+2019-09-30T13:30:13.7163357-03:00:Thread#0:T:done: PortalPTESteps.GivenGerarUmaProposta() (5,8s)
+2019-09-30T13:30:13.7163357-03:00:Thread#0:B:And Preencher Dados do produtor
+2019-09-30T13:30:16.7853255-03:00:Thread#0:T:done: PortalPTESteps.GivenPreencherDadosDoProdutor() (3,1s)
+2019-09-30T13:30:16.7853255-03:00:Thread#0:B:And Preencher Dados da empresa
+2019-09-30T13:30:19.5679455-03:00:Thread#0:T:done: PortalPTESteps.GivenPreencherDadosDaEmpresa() (2,8s)
+2019-09-30T13:30:19.5679455-03:00:Thread#0:B:And Preencher Dados dos beneficiários
+2019-09-30T13:31:43.8012072-03:00:Thread#0:T:error: invalid selector: Unable to locate an element with the xpath expression //as-select-inline-edit[@id=>'grau-parentesco']/select[@id=>'grau-parentesco'] because of the following error:
+2019-09-30T13:31:43.8012072-03:00:Thread#0:T:SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//as-select-inline-edit[@id=>'grau-parentesco']/select[@id=>'grau-parentesco']' is not a valid XPath expression.
+2019-09-30T13:31:43.8012072-03:00:Thread#0:T:  (Session info: chrome=77.0.3865.90)

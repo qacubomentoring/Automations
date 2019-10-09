@@ -1,0 +1,80 @@
+﻿2019-09-30T11:18:50.9311275-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-09-30T11:18:50.9311275-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.388 in Framework clr40 in x86 mode execution started
+2019-09-30T11:18:50.9311275-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\packages\SpecRun.Runner.3.0.388\tools\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-09-30T11:18:51.0268699-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T11:18:51.0268699-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults" (default)
+2019-09-30T11:18:51.0268699-03:00;VSTestExecutionThread;Info;Profile: PTE_1._0
+2019-09-30T11:18:51.0474225-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\TestResults\PTE_1._0_PTE_1._0_2019-09-30T111851.log
+2019-09-30T11:18:51.0559071-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-09-30T11:18:51.0599280-03:00;Thread#13;Info;Checking license
+2019-09-30T11:18:51.0728933-03:00;Thread#13;Info;Evaluation mode: test execution starts in 13 seconds... (this delay is removed in the registered version)
+2019-09-30T11:19:04.0738418-03:00;Thread#13;Info;Evaluation delay finished.
+2019-09-30T11:19:04.0777382-03:00;Thread#13;Info;License check completed
+2019-09-30T11:19:04.0777382-03:00;Thread#13;Info;starting test run
+2019-09-30T11:19:04.0837220-03:00;Thread#13;Info;Discovering target: Default
+2019-09-30T11:19:04.0837220-03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T11:19:04.3561269-03:00:Appdomain Disposed
+2019-09-30T11:19:04.3561269-03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\PTE_1.0.dll
+2019-09-30T11:19:04.3571244-03:00:Test Suite Dump
+2019-09-30T11:19:04.3581259-03:00:#0: PTE_1._0/PTE_1._0 - 
+2019-09-30T11:19:04.3581259-03:00:#1: Default - 
+2019-09-30T11:19:04.3581259-03:00:#2: PTE_1.0 - 
+2019-09-30T11:19:04.3581259-03:00:#3: Portal PTE - 
+2019-09-30T11:19:04.3830877-03:00:#4: 001 Gerar Proposta - Corretora - TestAssembly:PTE_1.0/Feature:Portal+PTE/Scenario:001+Gerar+Proposta+-+Corretora
+2019-09-30T11:19:04.3830877-03:00:End: Test Suite Dump
+2019-09-30T11:19:04.4060268-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-30T11:19:04.4070243-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-09-30T11:19:04.4070243-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-30T11:19:04.4100155-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-30T11:19:04.4100155-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-30T11:19:04.4100155-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-30T11:19:04.4100155-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-30T11:19:04.4110130-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-30T11:19:04.4110130-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-09-30T11:19:04.4130074-03:00:Thread #0: creating new test thread executor for PTE_1.0, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-09-30T11:19:04.4140013-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-30T11:19:04.4150021-03:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2019-09-30T11:19:04.4160002-03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2019-09-30T11:19:04.4788303-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-09-30T11:19:04.6638450-03:00:Thread#0:T:-> Loading plugin C:\Users\fabio.santos\Documents\Automacao\SeleniumWebDriver_C#\PTE_1.0\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-09-30T11:19:04.6677999-03:00:Thread#0:T:-> Using default config
+2019-09-30T11:19:04.7246491-03:00:Thread#0:B:Given acesso ao Portal PTE
+2019-09-30T11:19:09.8984193-03:00:Thread#0:T:done: PortalPTESteps.GivenAcessoAoPortalPTE() (5,1s)
+2019-09-30T11:19:09.8994461-03:00:Thread#0:B:And Realizar o Login da Corretora
+2019-09-30T11:19:12.6449479-03:00:Thread#0:T:done: PortalPTESteps.GivenRealizarOLoginDaCorretora() (2,7s)
+2019-09-30T11:19:12.6449479-03:00:Thread#0:B:And Gerar uma Proposta
+2019-09-30T11:19:18.1931284-03:00:Thread#0:T:done: PortalPTESteps.GivenGerarUmaProposta() (5,5s)
+2019-09-30T11:19:18.1931284-03:00:Thread#0:B:And Preencher Dados do produtor
+2019-09-30T11:19:20.2434150-03:00:Thread#0:T:done: PortalPTESteps.GivenPreencherDadosDoProdutor() (2,1s)
+2019-09-30T11:19:20.2434150-03:00:Thread#0:B:And Preencher Dados da empresa
+2019-09-30T11:19:22.7619164-03:00:Thread#0:T:done: PortalPTESteps.GivenPreencherDadosDaEmpresa() (2,5s)
+2019-09-30T11:19:22.7619164-03:00:Thread#0:B:And Preencher Dados dos beneficiários
+2019-09-30T11:19:25.7005277-03:00:Thread#0:T:error: invalid selector: Unable to locate an element with the xpath expression //input[@id=>'nome-beneficiario'] because of the following error:
+2019-09-30T11:19:25.7005277-03:00:Thread#0:T:SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@id=>'nome-beneficiario']' is not a valid XPath expression.
+2019-09-30T11:19:25.7005277-03:00:Thread#0:T:  (Session info: chrome=77.0.3865.90)
+2019-09-30T11:19:25.7005277-03:00:Thread#0:B:And Anexar Documentação
+2019-09-30T11:19:25.7005277-03:00:Thread#0:T:skipped because of previous errors
+2019-09-30T11:19:25.7014950-03:00:Thread#0:B:When clicar em Finalização proposta
+2019-09-30T11:19:25.7014950-03:00:Thread#0:T:skipped because of previous errors
+2019-09-30T11:19:25.7014950-03:00:Thread#0:B:Then Proposta deve ser enviada para Análise com Status Aguardando Análise
+2019-09-30T11:19:25.8649473-03:00:Thread#0:T:No matching step definition found for the step. Use the following code to create one:
+2019-09-30T11:19:25.8649473-03:00:Thread#0:T:        [Then(@"Proposta deve ser enviada para Análise com Status Aguardando Análise")]
+2019-09-30T11:19:25.8659343-03:00:Thread#0:T:        public void ThenPropostaDeveSerEnviadaParaAnaliseComStatusAguardandoAnalise()
+2019-09-30T11:19:25.8659343-03:00:Thread#0:T:        {
+2019-09-30T11:19:25.8659343-03:00:Thread#0:T:            ScenarioContext.Current.Pending();
+2019-09-30T11:19:25.8659343-03:00:Thread#0:T:        }
+2019-09-30T11:19:25.8958580-03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2019-09-30T11:19:25.8968510-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-09-30T11:19:25.8968510-03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2019-09-30T11:19:25.8968510-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-09-30T11:19:25.8968510-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-09-30T11:19:25.8968510-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-09-30T11:19:25.8968510-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-09-30T11:19:25.8968510-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-09-30T11:19:25.8968510-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-09-30T11:19:25.8968510-03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2019-09-30T11:19:25.9058281-03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 21,4259726 seconds
+2019-09-30T11:19:25.9067982-03:00:Thread#0: Test #4/1 is started on thread #0
+2019-09-30T11:19:25.9067982-03:00:Thread#0:B:Given acesso ao Portal PTE
+2019-09-30T11:19:28.6042309-03:00:Thread#0:T:done: PortalPTESteps.GivenAcessoAoPortalPTE() (2,7s)
+2019-09-30T11:19:28.6045997-03:00:Thread#0:B:And Realizar o Login da Corretora
